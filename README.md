@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Tareef</h1>
-<h3 align="center">A passionate FullStack Desktop Developer from Jordan</h3>
+<h3 align="center">A passionate Backend Developer from Jordan</h3>
 
 - 🔭 I’m worked on [Driving & Vehicle License Department](https://github.com/M7mdBinTareef/DVLD.git)
 
