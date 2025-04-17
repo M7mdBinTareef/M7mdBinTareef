@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Courses**
 
-- 💬 Ask me about **C# Windows Forms, SQL TSQL , C++, OOP**
+- 💬 Ask me about **C# Windows Forms, SQL TSQL , C++, OOP, Data Sturcture , Algorithms**
 
 - 📫 How to reach me **mohammedtareef5@gmail.com**
 
